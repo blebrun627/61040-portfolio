@@ -264,17 +264,17 @@ All five concepts work together to cover the main functions of the app: reading 
 
 **UI Sketches**
 
-![Home Page](assets/home.jpeg)
+![Home Page](UI_Sketches/home.jpeg)
 
-![Profile](assets/own_profile.jpeg)
+![Profile](UI_Sketches/own_profile.jpeg)
 
-![Other User Profile](assets/other_profilet.jpeg)
+![Other User Profile](UI_Sketches/other_profilet.jpeg)
 
-![Opened Book](assets/open_book.jpeg)
+![Opened Book](UI_Sketches/open_book.jpeg)
 
-![Comments Section](assets/comments.jpeg)
+![Comments Section](UI_Sketches/comments.jpeg)
 
-![Messaging](assets/messaging.jpeg)
+![Messaging](UI_Sketches/messaging.jpeg)
 
 **User Journey**
 
