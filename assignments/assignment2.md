@@ -264,26 +264,26 @@ All five concepts work together to cover the main functions of the app: reading 
 
 **UI Sketches**
 
-![Home Page](UI_Sketches/home.jpeg)
+![Home Page](UI_Sketches/home.jpg)
 
-![Profile](UI_Sketches/own_profile.jpeg)
+![Profile](UI_Sketches/own_profile.jpg)
 
-![Other User Profile](UI_Sketches/other_profilet.jpeg)
+![Other User Profile](UI_Sketches/other_profile.jpeg)
 
-![Opened Book](UI_Sketches/open_book.jpeg)
+![Opened Book](UI_Sketches/open_book.jpg)
 
-![Comments Section](UI_Sketches/comments.jpeg)
+![Comments Section](UI_Sketches/comments.jpg)
 
-![Messaging](UI_Sketches/messaging.jpeg)
+![Messaging](UI_Sketches/messaging.jpg)
 
 **User Journey**
 
-Maria is a college student who enjoys reading to unwind from classes. One evening she opens Circe by Madeline Miller in the app (BookReading) and settles into the last few chapters. The app keeps track of her place as she goes, and when she reaches the end, she taps to mark the book complete.
+Maria is a college student who enjoys reading to unwind after class. She picks up Madeline Miller's Circe in the app (BookReading) one evening and gets into the last chapters. The app saves her place as she reads, and when she's done she taps to mark the book read.
 
-Right away, her profile updates (Profiles) and a list of other readers who also just finished Circe appears (Matching). One name, Sam, stands out because they share a few favorite genres. Maria accepts the match, curious to see what Sam thought.
+At once, her profile information (Profiles) and list of other readers who recently finished Circe appear (Matching). One name, Sam, also stands out to her since they share a few shared favorite genres. Maria accepts the match, curious to see what Sam thought.
 
-Still buzzing from the ending, she scrolls back to an earlier scene that stuck with her. Beneath that passage is a thread of comments where other readers have shared their reactions (Commentary). She adds her own thoughts, and not long after, someone responds.
+Still dazed by the climax, she scrolls to a previous scene that had stuck in her head. Below that scene is a trail of comments where other readers have left their reactions (Commentary). She leaves her own and soon, someone answers.
 
-Later, Maria also decides to explore outside of her matches. She searches the app’s directory of profiles (Profiles) and finds another reader who has recently finished several books she’s planning to pick up next. She opens a chat with them directly (Messaging), starting a conversation without needing a match first.
+Maria then also makes a decision to look outside of her matches. She scrolls through the app's listing of profiles (Profiles) and finds another reader who has recently completed several books she's reading next. She engages with them immediately (Messaging), without needing to be matched first.
 
-What could have been a quiet, solitary finish turns into multiple conversations. Instead of closing the book with no one to talk to, Maria finds herself part of a community that’s just as excited as she is.
+What could have otherwise been a peaceful, solitary conclusion is now multiple conversations. Instead of reading the book to the end without anyone to share it with, Maria is now part of a community that is as interested as she is.
